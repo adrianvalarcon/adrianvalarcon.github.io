@@ -38,7 +38,8 @@
 						images: {
 							'asset/images/bg/Scripps Memorial Pier-3.jpg': 'center',
 							'asset/images/bg/Scripps Memorial Pier-4.jpg': 'center',
-							'asset/images/bg/Scripps Memorial Pier-9.jpg': 'center'
+							'asset/images/bg/Scripps Memorial Pier-9.jpg': 'center',
+							'asset/images/cherie.png': 'center'
 						},
 
 					// Delay.
