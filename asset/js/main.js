@@ -36,9 +36,9 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/bg01.jpg': 'center',
-							'images/bg02.jpg': 'center',
-							'images/bg03.jpg': 'center'
+							'asset/images/bg/Scripps Memorial Pier-3.jpg': 'center',
+							'asset/images/bg/Scripps Memorial Pier-4.jpg': 'center',
+							'asset/images/bg/Scripps Memorial Pier-9.jpg': 'center'
 						},
 
 					// Delay.
