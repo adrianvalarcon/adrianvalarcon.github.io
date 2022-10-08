@@ -99,7 +99,7 @@ body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 	transition: none !important;
 }
 body > * {
-	psoition: relative;
+	position: relative;
 	z-index: 2;
 }
 @media screen and (max-width: 1680px) {
